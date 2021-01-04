@@ -32,8 +32,8 @@
 @media (max-width:600px){
     #showcase .showcase-container{
         grid-template-columns: 1fr;
+        height: 55vh;
     }
-
     #home-articles .home-article-container,
     #main-footer .footer-container,
     .page-container{
